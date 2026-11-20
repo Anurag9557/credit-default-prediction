@@ -134,7 +134,7 @@ intentionally not committed — it is a build artifact, fully reproducible from 
 ## Run
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn joblib
+pip install -r requirements.txt jupyter
 jupyter notebook credit_default.ipynb
 ```
 
